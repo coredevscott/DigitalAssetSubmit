@@ -12449,7 +12449,7 @@
                     (0, r.jsx)("div", {
                       className: "mt-4",
                       children: (0, r.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcde623b20c024a87f585acfef7567906b3bdb7ec",
                         children: (0, r.jsx)("button", {
                           class:
                             "inline-flex text-white font-bold bg-black  border-0 py-2 px-6 focus:outline-none  rounded text-lg",
