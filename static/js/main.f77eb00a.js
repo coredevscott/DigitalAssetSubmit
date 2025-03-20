@@ -12324,7 +12324,7 @@
                       (0, r.jsx)("div", {
                         class: "flex justify-center",
                         children: (0, r.jsx)("a", {
-                          href: "https://www.dextools.io/app/en/ether/pool-explorer/0x11111111111111111111111111111111111111",
+                          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8eef50b08ce39c849e595965af9397b084afae05?t=1742479530778",
                           children: (0, r.jsx)("button", {
                             class:
                               "inline-flex text-black font-bold bg-[#F9B624]  border-0 py-2 px-6 focus:outline-none  rounded text-lg",
